@@ -21,11 +21,11 @@ editions:
 - short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0019_000.yaml, hash: 'sha256:26ab588854aaf20b64bb7518542474bfc154b11a0f654340ccd091a6c272cb05'}
-  - {seq: 1, filename: KR6v0019_001.yaml, hash: 'sha256:8834d97d657d1599a0308020a10f6da0ded0e0fc37b1dbb042fa9713d9bc4e0e'}
+  - {seq: 0, filename: KR6v0019_000.yaml, hash: 'sha256:9890e6bad96e16caf12c3a7cc61f812ebd8125580c28912d902ffb0002dbba8f'}
+  - {seq: 1, filename: KR6v0019_001.yaml, hash: 'sha256:117e14233b884fc8082965c84bd21fdb613d70b35a52acb8e934848a57da1b79'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0019_000.markers.yaml, hash: 'sha256:1f3f87ec67034bb57954c29866a7a3472a80ae5d9d6d0762bd34e5df4f994f38'}
-  - {seq: 1, role: markers, filename: assets/KR6v0019_001.markers.yaml, hash: 'sha256:0edd874aa7d30abacb87d0f565f6193226052e04ee5bdf20f588d47de87753b4'}
+  - {seq: 0, role: markers, filename: assets/KR6v0019_000.markers.yaml, hash: 'sha256:2da3ae772e2d0de28029c1612cd2f8ba80d5af351f828cef064d2aac2464e2dd'}
+  - {seq: 1, role: markers, filename: assets/KR6v0019_001.markers.yaml, hash: 'sha256:4e87bec26c10127d9bd81ec3f83e8d1d6bf9cbe4fe70d535cf69b5d660aea94a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -47,7 +47,4 @@ table_of_contents:
   label: 大般涅槃經佛母品
   type: juan
   level: 1
-hash: sha256:ca393c1ebf94608a1e152975fe8cae5f76e162cc10a8e56ae5176b6a8d549a20
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3b7eabeab7ff247b8592373e321e3f9e6c0c53cd6b1a689b0d354602cd542fef
