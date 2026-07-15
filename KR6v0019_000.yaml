@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR6v0019/zw/v1/juan/0
 seq: 0
 front:
-  text: 錄文二
-  hash: sha256:a492f85a82e4a8765c0cdb17e2e643d208c3fca3f7aed27f1ca9d65a993dd824
+  text: 録文二
+  hash: sha256:71793d946faad476c84cf59dcb9687444c1e1f98dfd6486c6e20bbbbd077d8b9
   markers:
   - {type: 其他, offset: 0, content: 錄文二, id: KR6v0019_ZW_000-mulu-1, level: '1'}
 body:
@@ -16,4 +16,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/ZW/ZW01/ZW01n0015b.xml
     old_id: ZW01n0015b
-hash: sha256:9890e6bad96e16caf12c3a7cc61f812ebd8125580c28912d902ffb0002dbba8f
+hash: sha256:26ab588854aaf20b64bb7518542474bfc154b11a0f654340ccd091a6c272cb05

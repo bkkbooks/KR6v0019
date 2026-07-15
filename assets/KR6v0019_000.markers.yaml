@@ -6,9 +6,10 @@ markers:
   - {type: page-break, offset: 0, content: '', id: KR6v0019_ZW_000-0380a, ed: ZW, 'n': 0380a, source_xml_id: ZW01.0015b.0380a}
   - {type: line-break, offset: 0, content: '', id: KR6v0019_ZW_000-0380a01, ed: ZW, 'n': 0380a01}
   - {type: punctuation, offset: 0, content: 〔, id: KR6v0019_ZW_000-bkkpn1}
+  - {type: substitution, offset: 0, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 3, content: 〕, id: KR6v0019_ZW_000-bkkpn2}
   - {type: line-break, offset: 3, content: '', id: KR6v0019_ZW_000-0380a02, ed: ZW, 'n': 0380a02}
   - {type: line-break, offset: 3, content: '', id: KR6v0019_ZW_000-0380a03, ed: ZW, 'n': 0380a03}
   body: []
   back: []
-hash: sha256:2da3ae772e2d0de28029c1612cd2f8ba80d5af351f828cef064d2aac2464e2dd
+hash: sha256:4652412c4559b6a041bfadd66b1033a64ed743c100936e1181db48e85e2cd26a
