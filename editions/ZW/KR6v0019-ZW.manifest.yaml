@@ -19,17 +19,17 @@ metadata:
     short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0019_000-ZW.yaml, hash: 'sha256:9890e6bad96e16caf12c3a7cc61f812ebd8125580c28912d902ffb0002dbba8f'}
+  - {seq: 0, filename: KR6v0019_000-ZW.yaml, hash: 'sha256:20ab3735ed83ce9395a2c7550b7b739329483eab6be5da5dc59905e944c33976'}
   - {seq: 1, filename: KR6v0019_001-ZW.yaml, hash: 'sha256:117e14233b884fc8082965c84bd21fdb613d70b35a52acb8e934848a57da1b79'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0019_000-ZW.markers.yaml, hash: 'sha256:582f00bbabd5a1b582f9f900203bfa4db180de5b44bd1465384a8ae0b3c5afba'}
+  - {seq: 0, role: markers, filename: assets/KR6v0019_000-ZW.markers.yaml, hash: 'sha256:e843bd7fcee1294db0fc7bafcfd71a891d13b209f846e1cb71f7077e3a3b6798'}
   - {seq: 1, role: markers, filename: assets/KR6v0019_001-ZW.markers.yaml, hash: 'sha256:4a219d460f528afa7e01691a49ad317468886c6edf384054b8a2e9883ee57ad5'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0019_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 錄文二
@@ -45,4 +45,4 @@ table_of_contents:
   label: 大般涅槃經佛母品
   type: juan
   level: 1
-hash: sha256:b6fc7d61a586aaed27688f16d6d1cb26e11651442035b33611081becda17aeb9
+hash: sha256:23db059aa4a615aa3a01702ecc87776fb6c947cbda58bad7b0a6da0656ced5c1
